@@ -1,6 +1,6 @@
-★ JavaScript Even and Odd Numbers
+# JavaScript Even and Odd Numbers
 
-#Code
+# Code
   const evens = [];
 const odds = [];
 
@@ -15,7 +15,7 @@ for (let i = 1; i <= 30; i++) {
 console.log('Even numbers:', evens);
 console.log('Odd numbers:', evens);
 
-#Output
+# Output
   Even numbers: [
    2,  4,  6,  8, 10, 12,
   14, 16, 18, 20, 22, 24,
@@ -26,5 +26,3 @@ Odd numbers: [
   14, 16, 18, 20, 22, 24,
   26, 28, 30
 ]
-
-=== Code Execution Successful ===
