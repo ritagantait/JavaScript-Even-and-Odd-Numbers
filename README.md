@@ -1,1 +1,1 @@
-# JavaScript-Even-and-Odd-Numbers
+# JavaScript Even and Odd Numbers
